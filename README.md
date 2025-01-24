@@ -1,4 +1,1 @@
-
-  return n if ( 0..1 ).include? n
-  (fibonacci(n - 1) + fibonacci(n - 2)) #recursive calls
-end
+[![CI](https://github.com/Attila180/Attila180/actions/workflows/Up_blank.yml/badge.svg?branch=Attila180-patch-1&event=check_run)](https://github.com/Attila180/Attila180/actions/workflows/Up_blank.yml)
